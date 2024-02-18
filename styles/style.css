@@ -499,7 +499,7 @@ Sidebar
 
 .side-bar .menu .item a .dropdown {
   position: absolute;
-  right: 150px;
+  right: 50px;
   margin: 20px;
   transition: 0.3s ease;
 }
